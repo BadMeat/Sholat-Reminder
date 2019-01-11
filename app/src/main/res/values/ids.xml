@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="myWeb" type="id" />
+    <item name="myLinear" type="id" />
+    <item name="loading" type="id" />
+    <item name="goto_jadwal" type="id" />
+    <item name="love" type="id" />
+    <item name="myCustomToast" type="id" />
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SholatReminder</string>
+    <string name="default_notification_channel_id">cannel</string>
+    <string name="default_notification_channel_title">cannelTitle</string>
+    <string name="jadwal_sholats">Jadwal Sholat</string>
+    <string name="ket_sholat">"Sesungguhnya shalat memiliki waktu yang telah ditetapkan bagi orang beriman."
+        \n\n(QS. An Nisaa’: 103)</string>
+    <string name="sudah_set">Jadwal Berhasil di Set</string>
+    <string name="filter_title_viewgizmos">Gizmoz</string>
+</resources>
